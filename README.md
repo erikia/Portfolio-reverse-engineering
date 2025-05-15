@@ -7,7 +7,7 @@ My portfolio of reverse engineering projects. This repository contains detailed 
 | ----------------------- | ------------------------------------------------- | --------------------------- | ------------- |
 | `001-easy-crackme`      | Basic password verification crackme               | Ghidra, x64dbg              |               |
 | `002-android-login.apk` | Android APK with login logic analysis             | JADX, Frida, MobSF          |               |
-| `003-trojan-sample.exe` | Windows malware exhibiting persistence mechanisms | Ghidra, PEStudio, Wireshark | ([GitHub][1]) |
+| `003-eventd.exe`        | Windows malware exhibiting persistence mechanisms | Ghidra                      |               |
 
 ---> Smaller the prefix number, newer the report. This way, the newest (and most relevant) will be at the top.
 
